@@ -1,0 +1,43 @@
+PYTHON LIBRARIES 
+
+1)Opencv :- Opencv  is a huge open-source library for computer vision, machine learning, and image processing. Now, it plays a major role in real-time operation which is very important in today’s systems. By using it, one can process images and videos to identify objects, faces, or even the handwriting of a human.
+When it is integrated with various libraries, such as NumPy, python is capable of processing the opencv array structure for analysis. To Identify an image pattern and its various features we use vector space and perform mathematical operations on these features.
+
+Application :- 
+1.Read the image
+2.Image enhancement
+3.Object detection
+4.Image filtering
+5.Draw the image
+
+2) Keras :- Keras is an open-source high-level Neural Network library, which is written in Python is capable enough to run on Theano, TensorFlow, or CNTK. It was developed by one of the Google engineers, Francois Chollet. It is made user-friendly, extensible, and modular for facilitating faster experimentation with deep neural networks. It not only supports Convolutional Networks and Recurrent Networks individually but also their combination.
+
+Speciality :-
+o	Focus on user experience has always been a major part of Keras.
+o	Large adoption in the industry.
+o	It is a multi backend and supports multi-platform, which helps all the encoders come together for coding.
+o	Research community present for Keras works amazingly with the production community.
+o	Easy to grasp all concepts.
+
+3) Tensorflow :- It is an open-source machine learning library developed by Google. TensorFlow is used to build and train deep learning models as it facilitates the creation of computational graphs and efficient execution on various hardware platforms. The article provides an comprehensive overview of tensorflow.
+Features : - 
+1.	Models can be developed easily: TensorFlow supports high-level APIs, through which Machine Learning models can be built easily using Neural Networks.
+2.	Complex Numeric Computations can be done: As the input dataset is huge, the mathematical computations/calculations can be done easily.
+3.	Consists of Machine Learning APIs: TensorFlow is rich in Machine Learning APIs that are of both low-level and high-level. Stable APIs are available in Python and C. Presently, working on APIs for Java, JavaScript, Julia, Matlab, R, etc.
+4.	Easy deployment and computation using CPU, GPU: TensorFlow supports training and building models on CPU and GPU. Computations can be done on both CPU and GPU and can be compared too.
+5.	Contains pre-trained models and datasets: Google has included many datasets and pre-trained models in TensorFlow. Datasets include mnist, vgg_face2, ImageNet, coco etc.
+
+
+4) scikitlearn :- Scikit-learn (Sklearn) is the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python. This library, which is largely written in Python, is built upon NumPy, SciPy and Matplotlib.
+
+Features:- 
+Rather than focusing on loading, manipulating and summarising data, Scikit-learn library is focused on modeling the data. Some of the most popular groups of models provided by Sklearn are as follows −
+Supervised Learning algorithms − Almost all the popular supervised learning algorithms, like Linear Regression, Support Vector Machine (SVM), Decision Tree etc., are the part of scikit-learn.
+Unsupervised Learning algorithms − On the other hand, it also has all the popular unsupervised learning algorithms from clustering, factor analysis, PCA (Principal Component Analysis) to unsupervised neural networks.
+Clustering − This model is used for grouping unlabeled data.
+Cross Validation − It is used to check the accuracy of supervised models on unseen data.
+Dimensionality Reduction − It is used for reducing the number of attributes in data which can be further used for summarisation, visualisation and feature selection.
+Ensemble methods − As name suggest, it is used for combining the predictions of multiple supervised models.
+Feature extraction − It is used to extract the features from data to define the attributes in image and text data.
+Feature selection − It is used to identify useful attributes to create supervised models.
+Open Source − It is open source library and also commercially usable under BSD license.
